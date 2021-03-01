@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ## 특이사항
 
 교내 튜터링 : 튜터 / 튜티 진행
+
 AR VR 전문가교육 수료    한국IT비즈니스진흥협회
 
 단러닝클럽 학습법 관련 발표 우수상 
