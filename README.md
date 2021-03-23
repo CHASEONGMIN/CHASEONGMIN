@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ## 생년월일 1995 05 19
 
 ## 관심사 
-  🔭 현재는 알고리즘 공부에 전념중.
-
+  🔭 현재는 알고리즘 공부와 세부 직무 기초 공부에 집중.
+  
 ## 특이사항
 
 AR VR 전문가교육 수료    한국IT비즈니스진흥협회
@@ -43,5 +43,7 @@ AR VR 전문가교육 수료    한국IT비즈니스진흥협회
 튜터 및 튜티로 튜터링 다수 진행
 
 교내 학습법 관련 발표 우수상 
+
+## 알고리즘 백준 티어(박제)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckpow)](https://solved.ac/ckpow)
