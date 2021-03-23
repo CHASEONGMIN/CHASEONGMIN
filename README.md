@@ -43,3 +43,5 @@ AR VR 전문가교육 수료    한국IT비즈니스진흥협회
 튜터 및 튜티로 튜터링 다수 진행
 
 교내 학습법 관련 발표 우수상 
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckpow)](https://solved.ac/ckpow)
