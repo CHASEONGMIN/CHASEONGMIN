@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ## 관심사 
   🔭 현재는 알고리즘 공부와 세부 직무 기초 공부에 집중.
+  21.03.31~ SSAPPHIRE STUDY
   
 ## 특이사항
 
