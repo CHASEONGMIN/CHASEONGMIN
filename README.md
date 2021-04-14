@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   
   21.03.31~ SSAPPHIRE (Study)
   
+  (soon) react native subproject
+  
 ## 특이사항
 
 AR VR 전문가교육 수료    한국IT비즈니스진흥협회
