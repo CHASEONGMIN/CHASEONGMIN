@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
   21.03.31~ SSAPPHIRE (Study)
   
-  (soon) react native subproject
+  21.04.28~ react native subproject
   
 ## 특이사항
 
