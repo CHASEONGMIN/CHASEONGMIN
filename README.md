@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
   - Web developement (Front`vue, Reactnatice` / Back`Django`)
   - CI / CD
+  - 프로젝트 매니저(PM) / 기획 및 설계 및 관리
 
 ## 진행 프로젝트 목록
 
