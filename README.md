@@ -64,7 +64,7 @@ AR VR 전문가교육 수료    한국IT비즈니스진흥협회
 
   - Opic 공부 (6월 중)
 
-  - 
+  - 백준 그룹 Sunflower (https://www.acmicpc.net/group/10503)
 
 ## ETC
 
