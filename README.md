@@ -43,6 +43,7 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
 증강현실을 이용한 스마트 빌딩 관리 (20.03 ~ 20.06)
 
 싸피 1학기 최종 관통 프로젝트 영화 커뮤니티 제작 (21.05.20 ~ 21.05.28)
+레포 주소: https://github.com/CHASEONGMIN/SSAFY_5TH_firstsemester_final_pjt
 
 이외 기타 학창시절 여러 프로젝트들(AR갤러리, 엣지컴퓨팅 분석, 운영체제 문제설계, 플랫폼 설계 등)
 
