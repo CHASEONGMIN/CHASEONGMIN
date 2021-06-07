@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 증강현실을 이용한 스마트 홈의 제어 (19.09 ~ 19.12)
 
+ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/view?usp=sharing
+
   - 교내 SW공모전 금상 (주관 : IITP정보통신기술진흥센터)
   - 캡스톤 경진대회 본선 진출
   - 산하협력단과 함께 특허출원 (스마트홈 환경에서 AR기술을 활용한 슬립테크 제어 방법)
