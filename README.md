@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 관심사 
 
-  - Web developement (Front`vue, Reactnatice` / Back`Django`) 
+  - Web developement (Front`vue, Reactnative` / Back`Django`) 
   - ICT 기획 (신기술 리서치, 거버넌스 기획 및 운영, 전략과제 기획 및 추진) =>  프로젝트 매니저(PM) 
   - CI / CD
 
