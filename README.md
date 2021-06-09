@@ -21,12 +21,16 @@ Here are some ideas to get you started:
 
   - 생년월일 1995 05 19
   - 
-  
+
+---
+
 ## 관심사 
 
   - Web developement (Front`vue, Reactnatice` / Back`Django`) 
   - ICT 기획 (신기술 리서치, 거버넌스 기획 및 운영, 전략과제 기획 및 추진) =>  프로젝트 매니저(PM) 
   - CI / CD
+
+---
 
 ## 진행 메인 프로젝트 목록
 
@@ -40,21 +44,30 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
   - 논문 (Method of Sleeptech control using AR ln Smart home environment) [http://koreascience.or.kr/article/CFKO202024664104598.page]
   - 학술발표대회 (2020 한국정보처리학회, 온라인 춘계학술발표대회(5/29 ~ 30)  발표자)
 
-증강현실을 이용한 스마트 빌딩 관리 (20.03 ~ 20.06)
-  - 위의 증강현실을 이용한 스마트 홈의 제어의 피드백 내용을 토대로 블루투스 연결의 보안취약점을 OpenCV를 활용하여 해결)
+증강현실을 활용한 스마트 빌딩 관리 (20.03 ~ 20.06)
 
-싸피 1학기 최종 관통 프로젝트 영화 커뮤니티 제작 (21.05.20 ~ 21.05.28)
-레포 주소: https://github.com/CHASEONGMIN/SSAFY_5TH_firstsemester_final_pjt
+발표영상: https://drive.google.com/file/d/11yecyuLX10u1akSJ7C5PHtpIWtbXZ-zo/view?usp=sharing
+보고서: https://drive.google.com/file/d/1fHwCgp7mo6uHcnrw-VbgyLEkU_9uztnx/view?usp=sharing
+
+  - 위의 증강현실을 이용한 스마트 홈의 제어의 피드백 내용을 토대로 블루투스 연결의 보안취약점을 OpenCV를 활용하여 해결
+
+삼성청년소프트웨어아카데미(SSAFY) 1학기 최종 관통 프로젝트 영화 커뮤니티 제작 (21.05.20 ~ 21.05.28)
+레포 주소: https://github.com/CHASEONGMIN/Projects/tree/main/MainProjects/SSAFY_5TH_firstsemester_final_pjt
+시연 이전 부분까지의 내용 ppt: https://github.com/CHASEONGMIN/Projects/blob/main/MainProjects/SSAFY_5TH_firstsemester_final_pjt/210528_5%EA%B8%B0_%EB%8C%80%EC%A0%84_2%EB%B0%98_%EA%B4%80%ED%86%B5PJT_%EC%A1%B0%EC%9B%85%ED%98%84_%EC%B0%A8%EC%84%B1%EB%AF%BC.pptx
 
 이외 기타 학창시절 여러 프로젝트들(운영체제 문제설계 등)
 
+---
+
 ## 진행한 서브 프로젝트 목록
 
-### 레포 주소: https://github.com/CHASEONGMIN/SubProjects
+### 레포 주소: https://github.com/CHASEONGMIN/Projects/tree/main/SubProjects
 
 그래픽스 프로젝트 보고서 및 PPT
 
 매트랩 프로젝트 보고서
+
+---
 
 ## 보고서 명세를 토대로 작성한 보고서들
 
@@ -78,6 +91,8 @@ AR VR 전문가교육 수료    한국IT비즈니스진흥협회
 
 삼성청년소프트웨어아카데미(SSAFY)5기 참여중
 
+---
+
 ## 진행 중인 서브 활동
 
   🔭 현재는 알고리즘 공부와 세부 직무 기초 공부에 집중.
@@ -90,25 +105,43 @@ AR VR 전문가교육 수료    한국IT비즈니스진흥협회
 
   - 백준 그룹 Sunflower (https://www.acmicpc.net/group/10503)
 
+---
+
 ## ETC
 
 튜터 및 튜티로 튜터링 다수 진행
 
   - 교내 학습법 관련 발표 우수상 
 
+---
+
 ## 기술 스택
 
 ### 언어
 
+- Python
+- JavaScript
+- C#
+- Java
+- SQL(문법과 Sqlite 활용 및 장고에서의 ORM)
+
+### 활용해본 프로그램, 툴, 장비
+
+- Unity
+- MATLAB
+- 아두이노
 - 
 
-### 프로그램, 툴
+### 활용해본 라이브러리, 프레임워크
 
+- Vue.js
+- Django
+- Vuforia
+- Three.js
+- ReactNative.js(진행중)
 - 
 
-### 활용한 라이브러리, 프레임워크
-
-- 
+---
 
 ## 알고리즘 백준 티어(박제)
 
