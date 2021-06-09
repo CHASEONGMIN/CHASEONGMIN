@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 증강현실을 이용한 스마트 홈의 제어 (19.09 ~ 19.12)
 
-ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/view?usp=sharing
+##### ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/view?usp=sharing
 
   - 교내 SW공모전 금상 (주관 : IITP정보통신기술진흥센터)
   - 캡스톤 경진대회 본선 진출
@@ -46,14 +46,14 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
 
 증강현실을 활용한 스마트 빌딩 관리 (20.03 ~ 20.06)
 
-발표영상: https://drive.google.com/file/d/11yecyuLX10u1akSJ7C5PHtpIWtbXZ-zo/view?usp=sharing
-보고서: https://drive.google.com/file/d/1fHwCgp7mo6uHcnrw-VbgyLEkU_9uztnx/view?usp=sharing
+##### 발표영상: https://drive.google.com/file/d/11yecyuLX10u1akSJ7C5PHtpIWtbXZ-zo/view?usp=sharing
+##### 보고서: https://drive.google.com/file/d/1fHwCgp7mo6uHcnrw-VbgyLEkU_9uztnx/view?usp=sharing
 
   - 위의 증강현실을 이용한 스마트 홈의 제어의 피드백 내용을 토대로 블루투스 연결의 보안취약점을 OpenCV를 활용하여 해결
 
 삼성청년소프트웨어아카데미(SSAFY) 1학기 최종 관통 프로젝트 영화 커뮤니티 제작 (21.05.20 ~ 21.05.28)
-레포 주소: https://github.com/CHASEONGMIN/Projects/tree/main/MainProjects/SSAFY_5TH_firstsemester_final_pjt
-시연 이전 부분까지의 내용 ppt: https://github.com/CHASEONGMIN/Projects/blob/main/MainProjects/SSAFY_5TH_firstsemester_final_pjt/210528_5%EA%B8%B0_%EB%8C%80%EC%A0%84_2%EB%B0%98_%EA%B4%80%ED%86%B5PJT_%EC%A1%B0%EC%9B%85%ED%98%84_%EC%B0%A8%EC%84%B1%EB%AF%BC.pptx
+### 레포 주소: https://github.com/CHASEONGMIN/Projects/tree/main/MainProjects/SSAFY_5TH_firstsemester_final_pjt
+##### 시연 이전 부분까지의 내용 ppt: https://github.com/CHASEONGMIN/Projects/blob/main/MainProjects/SSAFY_5TH_firstsemester_final_pjt/210528_5%EA%B8%B0_%EB%8C%80%EC%A0%84_2%EB%B0%98_%EA%B4%80%ED%86%B5PJT_%EC%A1%B0%EC%9B%85%ED%98%84_%EC%B0%A8%EC%84%B1%EB%AF%BC.pptx
 
 이외 기타 학창시절 여러 프로젝트들(운영체제 문제설계 등)
 
