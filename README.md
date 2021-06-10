@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
   - 교내 SW공모전 금상 (주관 : IITP정보통신기술진흥센터)
   - 캡스톤 경진대회 본선 진출
-  - 산하협력단과 함께 특허출원 (스마트홈 환경에서 AR기술을 활용한 슬립테크 제어 방법)
+  - 산학협력단과 함께 특허출원 (스마트홈 환경에서 AR기술을 활용한 슬립테크 제어 방법)
   - 논문 (Method of Sleeptech control using AR ln Smart home environment) [http://koreascience.or.kr/article/CFKO202024664104598.page]
   - 학술발표대회 (2020 한국정보처리학회, 온라인 춘계학술발표대회(5/29 ~ 30)  발표자)
 
