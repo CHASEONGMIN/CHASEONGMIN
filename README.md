@@ -119,18 +119,22 @@ AR VR 전문가교육 수료    한국IT비즈니스진흥협회
 
 ### 언어
 
-- Python
-- JavaScript
-- C#
-- Java
-- SQL(문법과 Sqlite 활용 및 장고에서의 ORM)
+- Python (활용 IDE: VsCode, Pycharm)
+- JavaScript (활용 IDE: VsCode)
+- C#  (활용 툴: Unity)
+- Java (활용 툴: Eclipse, Intelli J)
+- SQL(활용 툴: MySql, Sqlite 및 장고에서의 ORM)
 
-### 활용해본 프로그램, 툴, 장비
+### 활용해본 프로그램, 툴, 장비, API 등
 
 - Unity
 - MATLAB
-- 아두이노
-- 
+- 아두이노 (센서, 모델링, 제어 포함)
+- Wireshark (네트워크 패킷 분석)
+- VM(Ubuntu)
+- Node.js
+- Filezilla
+- 공공 API, 영화 API 등
 
 ### 활용해본 라이브러리, 프레임워크
 
