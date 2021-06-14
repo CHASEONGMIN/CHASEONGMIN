@@ -143,7 +143,7 @@ AR VR 전문가교육 수료    한국IT비즈니스진흥협회
 - Vuforia
 - Three.js
 - ReactNative.js(진행중)
-- 
+- Bootstrap
 
 ---
 
