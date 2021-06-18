@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 
 # 차성민 소개
 
-## 기본 인적 사항
 
-  - 생년월일 1995 05 19
-  - 
+## 학력
+
+  - 온양중학교 졸업
+  - 천안고등학교 졸업
+  - 단국대학교 소프트웨어학 졸업
 
 ---
 
@@ -34,7 +36,7 @@ Here are some ideas to get you started:
 
 ## 진행 메인 프로젝트 목록
 
-### 증강현실을 이용한 스마트 홈의 제어 (19.09 ~ 19.12)
+### 증강현실을 활용한 스마트 홈의 제어 (19.09 ~ 19.12)
 
 ##### ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/view?usp=sharing
 
