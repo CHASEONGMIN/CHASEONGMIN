@@ -152,6 +152,8 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
 
 - VsCode
 - Pycharm
+- IntelliJ
+- Eclipse
 
 ### 프로그램, 툴, 장비, API 등
 
