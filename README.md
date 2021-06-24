@@ -193,6 +193,7 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
 - Filezilla 
 - 공공 API, 영화 API 등 활용  중하
 - Postman 중하
+- Typora(md 기록용)
 
 ### 활용해본 라이브러리, 프레임워크
 
@@ -230,8 +231,6 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
   - SSAPPHIRE (Study) (21.03.31~ )
   - react native subproject (21.04.28~ )
   - 백준 그룹 Sunflower (https://www.acmicpc.net/group/10503)
-
-
 
 ### ETC
 
