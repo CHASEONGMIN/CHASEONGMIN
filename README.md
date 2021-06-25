@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 #### 2인 이상 팀 프로젝트
 
-- 증강현실을 활용한 스마트 홈의 제어
+- 1) 증강현실을 활용한 스마트 홈의 제어
 
   - 기간: 19.09 ~ 19.12
 
@@ -84,7 +84,7 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
 - 학술발표대회 (2020 한국정보처리학회, 온라인 춘계학술발표대회(5/29 ~ 30)  발표자)
 ```
 
-- 증강현실을 활용한 스마트 빌딩 관리 
+- 2) 증강현실을 활용한 스마트 빌딩 관리 
 
   - 기간: 20.03 ~ 20.06
 
@@ -124,7 +124,7 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
   
 ```
 
-- 삼성청년소프트웨어아카데미(SSAFY) 1학기 최종 관통 프로젝트 영화 커뮤니티 제작
+- 3) 삼성청년소프트웨어아카데미(SSAFY) 1학기 최종 관통 프로젝트 영화 커뮤니티 제작
 
   - 기간: 21.05.20 ~ 21.05.28
   
