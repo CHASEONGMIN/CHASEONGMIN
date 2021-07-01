@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 관심사 
 
-  - Web /  developement (Front`vue, Reactnative` / Back`Django`) 
+  - Web /  developement (Front `vue, Reactnative, React` / Back `Django`) 
   - ICT 기획 (신기술 리서치, 거버넌스 기획 및 운영, 전략과제 기획 및 추진) =>  프로젝트 매니저(PM) 
   - CI / CD
 
@@ -194,6 +194,7 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
 - 공공 API, 영화 API 등 활용  중하
 - Postman 중하
 - Typora(md 기록용)
+- Docker
 
 ### 활용해본 라이브러리, 프레임워크
 
@@ -203,6 +204,7 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
 - Three.js
 - ReactNative.js  하
 - Bootstrap  중하
+- React
 
 ### 활용해본 협업 툴
 
@@ -210,6 +212,7 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
 - GitLab
 - Notion
 - Github
+- Jira
 
 ---
 
