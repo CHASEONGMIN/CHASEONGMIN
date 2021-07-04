@@ -141,7 +141,7 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
 
   - 기간: 21.05.20 ~ 21.05.28 (학습 기간 21.03 ~ 21.05)
 
-  - 기술스택 및 사용 툴: Vue.js(node.js를 통한 CLI), Django, Bootstrap, Sqlite, Tmbd api, Youtube API, Vscode
+  - 기술스택 및 사용 툴: Vue.js(node.js를 통한 CLI), Django, Django REAT API, Bootstrap, Sqlite, Tmbd api, Youtube API, Vscode, Chrome Browser, Vanilla JS, Node.js
 
   - 내용:
     삼성청년SW아카데미 1학기 최종 관통 프로젝트로서  배운 내용을  토대로 영화 커뮤니티 웹사이트 제작 진행함.      
