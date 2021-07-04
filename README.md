@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ## 관심사 
 
-  - Web /  developement (Front `vue, Reactnative, React` / Back `Django`) 
+  - Web / App developement (Front `vue, React` / Back `Django` / App `Reactnative`) 
   - ICT 기획 (신기술 리서치, 거버넌스 기획 및 운영, 전략과제 기획 및 추진) =>  프로젝트 매니저(PM) 
-  - CI / CD
+  - CI / CD (도커 기본적인것만 학습)
 
 ---
 
