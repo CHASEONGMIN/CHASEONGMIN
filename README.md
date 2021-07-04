@@ -148,15 +148,15 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
 
   - 기간: 21.05.20 ~ 21.05.28 (학습 기간 21.03 ~ 21.05)
 
-  - 기술스택 및 사용 툴: Vue.js(node.js를 통한 CLI), Django, Django REST API, Bootstrap, Sqlite, Tmbd api, Youtube API, Vscode, Chrome Browser, Vanilla JS, Node.js
+  - 기술스택 및 사용 툴: Vue.js(node.js를 통한 CLI), Django, Django REST API, Bootstrap, Sqlite, TmDB api, Youtube API, Vscode, Chrome Browser, Vanilla JS, Node.js
 
   - 내용:
-    삼성청년SW아카데미 1학기 최종 관통 프로젝트로서  배운 내용을  토대로 영화 커뮤니티 웹사이트 제작 진행함.      
+    삼성청년SW아카데미 1학기 최종 관통 프로젝트로서 1학기 동안  배운 내용을  토대로 영화 커뮤니티 웹사이트 제작 진행함.      
 
-    삼성청년SW아카데미에서 1학기 동안 배운 내용을 토대로 외부 영화 API를 활용하여 DB를 구축하고, node.js를 통해 활용한 Vue.js(CLI)를 통해 프론트단을, Django를 통해 Restful하게 백단을 구성하고 css과 Bootstrap을 이용하여 디자인을 꾸몄음.
+    외부 영화 API를 활용하여 DB를 구축하고, node.js를 통해 활용한 Vue.js(CLI)를 통해 프론트단을, Django를 통해 Restful하게 백단을 구성하고 css과 Bootstrap을 이용하여 디자인을 꾸몄음.
 
   - 기본 요구 사항:
-   - 관리자 뷰 (Django내에서 admin.py에 만든 기능들 연결 후 super계정 생성하여 완료)
+   - 관리자 뷰 (Django내에서 admin.py에 만든 기능들 연결 후 superuser 계정을 생성하여 완료)
      
      :white_check_mark: 관리자 권한의 유저만 영화 등록/ 수정 / 삭제 권한 가짐.
      
@@ -168,7 +168,7 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
      :white_check_mark: 영화 정보는 최소 50개 이상의 데이터가 존재하도록 구성
      
      :white_check_mark: 모든 로그인 된 유저는 영화에 대한 평점 등록 / 수정 / 삭제 등이 가능해야함.
-   - 추천 알고리즘(콜드 스타트를 대비하여 장르에 맞는 대표작들을 제공하고, 사용자의 선택에 따라 영화 추천)
+   - 추천 알고리즘(콜드 스타트에 대비하여 다양한 장르들의 대표작들을 선택할 수 있도록 제공하고, 사용자의 선택에 따라 영화 추천)
      
      :white_check_mark: 평점을 등록한 유저는 해당 정보를 기반으로 영화를 추천 받을 수 있어야 함.
      
@@ -191,7 +191,7 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
      :white_check_mark: HTTP Method와 상태 코드는 상황에 맞게 적절하게 반환되어야 하며, 필요에 따라 메시지 프레임워크 등을 사용하여 에러 페이지를 구성해야 합니다
      
      :white_check_mark: 필요한 경우 Ajax를 활용한 비동기 요청을 통해 사용자 경험을 적절하게 향 상 시켜야 합니다
-  - 추가 구현 기능:
+  - 추가 구현 기능(자율적으로 수행):
     
     :white_check_mark: 인피니트 스크롤, 캐로셀 등의 디자인 적인 요소 추가
     
@@ -295,8 +295,8 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
 
 ### 진행 중인 서브 활동
 
-  - SSAPPHIRE (Study) (21.03.31~ )
-  - react native subproject (21.04.28~ )
+  - SSAPPHIRE (Study) (21.03.31~ ) https://github.com/SSA-PPHIRE, https://www.notion.so/SSA-PHIRE-3df4812be23f4f47b4f6134ae2460771
+  - react native subproject (잠시 React를 우선으로 하느라 스톱) 
   - 백준 그룹 Sunflower (https://www.acmicpc.net/group/10503)
 
 ### ETC
