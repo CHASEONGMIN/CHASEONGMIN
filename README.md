@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
   - 알고리즘 개념 복습 및 문제풀이  
   - 프로젝트 진행중 (React)
-  - Cs 공부(Soon)
+  - Cs 공부
 
 ---
 
