@@ -23,16 +23,13 @@ Here are some ideas to get you started:
 ### 🔭 현재 진행 중인 활동 ...
   
   - 알고리즘 개념 복습 및 문제풀이  
-  - 프로젝트 진행중 (React)
-  - Cs 공부
-
+  - React 프로젝트 진행중
+    
 ---
 
 ## 관심사 
 
-  - Web / App developement (Front `vue, React` / Back `Django` / App `Reactnative`) 
-  - ICT 기획 (신기술 리서치, 거버넌스 기획 및 운영, 전략과제 기획 및 추진) =>  프로젝트 매니저(PM) 
-  - CI / CD (현재는 도커 매우 기본적인 것만 경험)
+  - Web / App developement (Front `vue, React` / Back `Django` / App `Reactnative`)     
 
 ---
 
