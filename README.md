@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
   - 기술스택 및 사용 툴: C#, Unity(Vuforia 라이브러리, Ardunity 라이브러리), IoT(Arduino leonardo 및 센서들, 실모형 제작까지), 3D modelling(Sketchup)
 
-  - 내용: 
+  - 내용:  
 
     유니티 기반으로 스마트홈을 제어하고, 사용자가 편리하게 사용할 수 있는 UI를 만들었음.
     더 나아가 슬립테크를 스마트홈에 접목시키면서 동시에 증강현실을 이용해 제어를 할 수 있게 구현함. 
@@ -231,7 +231,7 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
 ### 활용 가능한 언어
 
 - Python    중
-- JavaScript  중하
+- JavaScript  중
 - C#  중하
 - SQL(활용 툴: MySql, Sqlite 및 장고에서의 ORM) 하
 
@@ -241,6 +241,7 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
 - Pycharm
 - IntelliJ
 - Eclipse
+- Visual Studio
 
 ### 프로그램, 툴, 장비, API 등
 
@@ -254,7 +255,7 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
 - 공공 API, 영화 API 등 활용  중하
 - Postman 중하
 - Typora(md 기록용)
-- Docker
+- Docker 하
 
 ### 활용해본 라이브러리, 프레임워크
 
@@ -264,12 +265,12 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
 - Three.js
 - ReactNative.js  하
 - Bootstrap  중하
-- React
+- React 중하
 
 ### 활용해본 협업 툴
 
 - Mattermost
-- GitLab
+- GitLab (Git flow활용하여 브랜치 관리까지)
 - Notion
 - Github
 - Jira
