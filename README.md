@@ -210,6 +210,20 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
  
 ```
 
+- 4) 삼성청년소프트웨어아카데미(SSAFY) 2학기 공통 프로젝트 웹IoT 트랙
+
+  - 기간: 21.07.05 ~ 21.08.20
+
+  - 기술스택 및 사용 툴: React, Node.js, Django, DB(Mysql, MariaDB), 라즈베리파이, Whimsical, Python, Vanilla JS, vsCode, Chrome Browser, 센서 등 다양한 툴을 사용, 체계적인 프로젝트를 위해 Jira, Notion, GitLab등의 협업툴을 활용(Git flow 활용 포함).
+
+  - 내용:
+    점점 늘어가는 2030 1인가구를 위한 냉장고 매니저이고, 2030 1인가구들의 입장에서 냉장고를 보다 효율적으로 활용할 수 있게 서비스를 제공하고자 함.
+    
+  - 역할:
+    팀장(Jira 스프린트 및 이슈 관리, Git flow 관리 및 머지 확인, 진행현황 매일 확인하며 팀장회의 참석),
+    기획(Whimsical을 통한 와이어프레임 제작, 화면정의서 제작), 프런트엔드(React) 및 디자인(Material-Ui, Bootstrap) 개발, 발표
+    
+    
 #### 2인 이하 서브 프로젝트
 
 - 레포 주소: https://github.com/CHASEONGMIN/Projects/tree/main/SubProjects
