@@ -214,15 +214,27 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
 
   - 기간: 21.07.05 ~ 21.08.20
 
-  - 기술스택 및 사용 툴: React, Node.js, Django, DB(Mysql, MariaDB), 라즈베리파이, Whimsical, Python, Vanilla JS, vsCode, Chrome Browser, 센서 등 다양한 툴을 사용, 체계적인 프로젝트를 위해 Jira, Notion, GitLab등의 협업툴을 활용(Git flow 활용 포함).
+  - 기술스택 및 사용 툴: React, Node.js, Django, DB(웹: Mysql, 라즈베리파이: Maria DB), 라즈베리파이, Whimsical, Python, Vanilla JS, vsCode, Chrome Browser, LED, 부저센서, 체계적인 프로젝트를 위해 Jira, Notion, GitLab등의 협업툴을 활용(Git flow 활용 포함).
 
-  - 내용:
-    점점 늘어가는 2030 1인가구를 위한 냉장고 매니저이고, 2030 1인가구들의 입장에서 냉장고를 보다 효율적으로 활용할 수 있게 서비스를 제공하고자 함.
-    
+  - 내용:     
+   1. 서비스명 : 냉장고를부탁해
+   2. 서비스 설명/ 주요기능 : 
+     - 서비스 설명: 점점 늘어가는 2030 1인가구를 위한 냉장고 매니저이고, 특히 요리에 관심있는 2030 1인가구들의 입장에서 냉장고를 보다 효율적으로 활용할 수 있게 서비스를 제공하는 서비스
+     - 주요 기능:  개인별 맞춤형 서비스 제공, 레시피 활용 서비스, 재료 관리 서비스
+      - 사용자별 재료 및 좋아하는 레시피 등록 가능
+      - 등록한 내용토대로 2가지 방식으로 추천 레시피 제공 및 레시피 검색 가능
+      - 레시피 재료 중 없는 것 표시 및 유통기한 지난 재료 있을 시 알림
+   3. 주요기술스택: React, Node.js, Django, DB(웹: Mysql, 라즈베리파이: Maria DB), 라즈베리파이, Whimsical, Python, Vanilla JS, vsCode, Chrome Browser, LED, 부저센서   
+   4. 차별화된 기술:
+    - 유저 개인별 서비스 제공
+    - 맞춤형 추천 서비스 제공
+    - 데이터 전처리를 통한 편한 사용
+    - 시중에 없는 다양한 부가기능 제공(없는 재료 파악, 타이머 등)
+      
   - 역할:
     팀장(Jira 스프린트 및 이슈 관리, Git flow 관리 및 머지 확인, 진행현황 매일 확인하며 팀장회의 참석, 간트차트 활용하여 팀 일정관리),
     기획(Whimsical을 통한 와이어프레임 제작, 화면정의서 제작), 프런트엔드(React) 및 디자인(Material-Ui, Bootstrap) 개발, 발표
-    
+      
     
 #### 2인 이하 서브 프로젝트
 
