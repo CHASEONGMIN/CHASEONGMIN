@@ -231,18 +231,25 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
    3. 주요기술스택: React, Node.js, Django, DB(웹: Mysql, 라즈베리파이: Maria DB), 라즈베리파이, Whimsical, Python, Vanilla JS, vsCode, Chrome Browser, LED, 부저센서   
    4. 차별화된 기술:
     
-      :white_check_mark:  유저 개인별 서비스 제공
+      :white_check_mark:  유저 개인별 맞춤형 추천 서비스 제공          
     
-      :white_check_mark:  맞춤형 추천 서비스 제공
-    
-      :white_check_mark:  데이터 전처리를 통한 편한 사용
+      :white_check_mark:  데이터 전처리 후, 더 나아가 연관성 검색 기능을 구현하여 오타있어도 제대로된 결과 도출
     
       :white_check_mark:  시중에 없는 다양한 부가기능 제공(없는 재료 파악, 타이머 등)
       
+      :white_check_mark:  IoT센서를 활용한 기능 탑재
+      
   - 역할:
     팀장(Jira 스프린트 및 이슈 관리, Git flow 관리 및 머지 확인, 진행현황 매일 확인하며 팀장회의 참석, 간트차트 활용하여 팀 일정관리),
-    기획(Whimsical을 통한 와이어프레임 제작, 화면정의서 제작), 프런트엔드(React) 및 디자인(Material-Ui, Bootstrap) 개발, 발표
-      
+    기획(Whimsical을 통한 와이어프레임 제작, 화면정의서 제작), 프런트엔드(React) 및 디자인(Material-Ui) 개발, 발표
+
+```
+UCC: https://drive.google.com/file/d/1IWZLK2Kx22yCSVlsHReYPQaXrGsl-NgR/view?usp=sharing
+
+최종 ppt: https://docs.google.com/presentation/d/1shVhlIhsxN9V1Hzay55PwE47-LzFTyj5/edit?usp=sharing&ouid=104755432594470438671&rtpof=true&sd=true
+ 
+```
+
     
 #### 2인 이하 서브 프로젝트
 
