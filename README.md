@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### 🔭 현재 진행 중인 활동 ...
   
   - 알고리즘 개념 복습 및 문제풀이  
-  - React 프로젝트 (~8/20)
+  - React 특화프로젝트 (8/23 ~)
     
 ---
 
@@ -210,7 +210,7 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
  
 ```
 
-- 4) 삼성청년소프트웨어아카데미(SSAFY) 2학기 공통 프로젝트 웹IoT 트랙
+- 4) 삼성청년소프트웨어아카데미(SSAFY) 2학기 공통 프로젝트 웹IoT 트랙   (우수 프로젝트 선정)
 
   - 기간: 21.07.05 ~ 21.08.20
 
