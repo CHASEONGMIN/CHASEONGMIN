@@ -244,6 +244,8 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
     기획(Whimsical을 통한 와이어프레임 제작, 화면정의서 제작), 프런트엔드(React) 및 디자인(Material-Ui) 개발, 발표
 
 ```
+레포주소: https://github.com/CHASEONGMIN/mainprojects_WebIoT
+
 UCC: https://drive.google.com/file/d/1IWZLK2Kx22yCSVlsHReYPQaXrGsl-NgR/view?usp=sharing
 
 최종 ppt: https://docs.google.com/presentation/d/1shVhlIhsxN9V1Hzay55PwE47-LzFTyj5/edit?usp=sharing&ouid=104755432594470438671&rtpof=true&sd=true
