@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 차성민 포트폴리오
+# 차성민 포트폴리오 간소화 작업중입니다.
 
 ---
 
@@ -27,18 +27,6 @@ Here are some ideas to get you started:
     
 ---
 
-## 관심사 
-
-  - Web / App developement (Front `vue, React` / Back `Django` / App `Reactnative`)     
-
----
-
-## 최종 학력
-
-- 천안고등학교 졸업 (2011 ~ 2014)
-- 단국대학교 소프트웨어학 졸업 (2015.03 ~ 2021.02)
-
----
 
 ## 개발 관련 경험
 
@@ -260,65 +248,6 @@ UCC: https://drive.google.com/file/d/1IWZLK2Kx22yCSVlsHReYPQaXrGsl-NgR/view?usp=
   그래픽스 프로젝트 보고서 및 PPT
   매트랩 프로젝트 보고서
 
-### 3) 교육 수료 및 활동
-
-- AR VR 전문가과정 교육 수료    한국IT비즈니스진흥협회 (19.06, 30시간)
-- 단국삼성모바일연구소 연구실활동(1년 동안 랩실장) (19.07 ~ 21.02)
-- 이지스(보안 동아리)활동 - 4년 동안 코드게이트, 스터디, 엘리트 세미나 등 참가 (15.03 ~ 21.02)
-- 삼성청년소프트웨어아카데미(SSAFY)5기 참여중 (21.01 ~)
-
----
-
-## 경험한 기술 Stack 및 숙련도
-
-### 활용 가능한 언어
-
-- Python    중
-- JavaScript  중
-- C#  중하
-- SQL(활용 툴: MySql, Sqlite 및 장고에서의 ORM) 하
-
-### IDE
-
-- VsCode
-- Pycharm
-- IntelliJ
-- Eclipse
-- Visual Studio
-
-### 프로그램, 툴, 장비, API 등
-
-- Unity  중하
-- MATLAB 하
-- 아두이노 (센서, 모델링, 제어 포함) 중
-- Wireshark (네트워크 패킷 분석) 하
-- VM(Ubuntu) 
-- Node.js 
-- Filezilla 
-- 공공 API, 영화 API 등 활용  중하
-- Postman 중하
-- Typora(md 기록용)
-- Docker 하
-
-### 활용해본 라이브러리, 프레임워크
-
-- Vue.js  중하
-- Django  중하
-- Vuforia  
-- Three.js
-- ReactNative.js  하
-- Bootstrap  중하
-- React 중하
-
-### 활용해본 협업 툴
-
-- Mattermost
-- GitLab (Git flow활용하여 브랜치 관리까지)
-- Notion
-- Github
-- Jira
-
----
 
 ## 이외 경험
 
@@ -332,18 +261,6 @@ UCC: https://drive.google.com/file/d/1IWZLK2Kx22yCSVlsHReYPQaXrGsl-NgR/view?usp=
 멀티미디어 자율 프로젝트(신기술 리서치로 `엣지 컴퓨팅` 진행)
 정보보호이론 자동차 네트워크 보안 설계 보고서 및 PPT
 ```
-
-### 진행 중인 서브 활동
-
-  - SSAPPHIRE (Study) (21.03.31~ ) https://github.com/SSA-PPHIRE, https://www.notion.so/SSA-PHIRE-3df4812be23f4f47b4f6134ae2460771
-  - react native subproject (잠시 React를 우선으로 하느라 스톱) 
-  - 백준 그룹 Sunflower (https://www.acmicpc.net/group/10503)
-
-### ETC
-
-튜터 및 튜티로 튜터링 다수 진행
-
-  - 교내 학습법 관련 발표 우수상 
 
 ---
 ## 알고리즘 백준 티어(박제)
