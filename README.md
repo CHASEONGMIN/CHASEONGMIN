@@ -255,6 +255,7 @@ Here are some ideas to get you started:
     - 멀티미디어 자율 프로젝트(신기술 리서치로 `엣지 컴퓨팅` 진행)
     - 정보보호이론 자동차 네트워크 보안 설계 보고서 및 PPT
 ---
-## 알고리즘 백준 티어(박제)
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckpow)](https://solved.ac/ckpow)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHASEONGMIN)](https://github.com/anuraghazra/github-readme-stats)
+
