@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 **기간**: 19.09 ~ 19.12
 
-[레포](https://github.com/CHASEONGMIN/SmartHome) ,  [PPT](https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/view?usp=sharing)
+[레포](https://github.com/CHASEONGMIN/SmartHome) ,  [PPT](https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/view?usp=sharing), [시연1](https://drive.google.com/file/d/1X_8w_u9KsgDNxrqWF9v6d5tcrLp1Tj4q/view), [시연2](https://drive.google.com/file/d/1-wyVNyOTJTgQHlv28_jL7AC9GFpU_5ww/view), [시연3](https://drive.google.com/file/d/1900Iu8Q5BcJy4KRWwfxBH0G-k54GyHG3/view), [시연4](https://drive.google.com/file/d/1nk3fGGsJ5YBfdQDTCVqhGX_nHF8viTp2/view)
 
 **성과**:
 
