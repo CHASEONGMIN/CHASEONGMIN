@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 
 **기간**: 20.03 ~ 20.06
 
-[발표영상](https://drive.google.com/file/d/11yecyuLX10u1akSJ7C5PHtpIWtbXZ-zo/view?usp=sharing),  [보고서](https://drive.google.com/file/d/1fHwCgp7mo6uHcnrw-VbgyLEkU_9uztnx/view?usp=sharing)
+[발표영상](https://drive.google.com/file/d/11yecyuLX10u1akSJ7C5PHtpIWtbXZ-zo/view?usp=sharing),  [보고서](https://drive.google.com/file/d/1fHwCgp7mo6uHcnrw-VbgyLEkU_9uztnx/view?usp=sharing), [시연1](https://drive.google.com/file/d/1IoFbFt-WbMn_ToNd7xI4ma_8i9zfAuOo/view), [시연2](https://drive.google.com/file/d/1AW3ro9gho7KAkCou8tUr9hvsz7QQCGNe/view), [시연3](https://drive.google.com/file/d/1Sw08t3Lp8jg9sASUzhQftIlS1AU_mavw/view)
 
 **역할**:
 
