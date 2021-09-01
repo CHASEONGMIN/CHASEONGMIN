@@ -44,6 +44,14 @@ Here are some ideas to get you started:
 - **C#**
 - **SQL**
 
+## Planning
+
+- **Wireframe**
+- **Storyboard**
+- **Milestone**
+- **Gantt Chart**
+- **Whimsical**
+
 ## Frontend
 
 - **HTML5, CSS3, JS(ES6)**
@@ -61,7 +69,6 @@ Here are some ideas to get you started:
 - **Unity**
 - **Postman**
 - **Typora**
-- **Whimsical**
 - **IDE -** VsCode, Pycharm, IntelliJ, Eclipse, Visual Studio
 
 ## Other experience
@@ -74,7 +81,6 @@ Here are some ideas to get you started:
 - **Linux** OS
 - **Wireshark**를 통한 네트워크 패킷 분석
 - **개발 명세서에 따른 개발 경험**
-- **기획**: 와이프레임제작, 화면정의서제작, 간트차트(마일스톤)제작 및 활용
 - 학술발표대회 참가 및 발표
 
 # 💻 Projects
