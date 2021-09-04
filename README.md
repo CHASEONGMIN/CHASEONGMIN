@@ -101,21 +101,25 @@ Here are some ideas to get you started:
 - 논문 (Method of Sleeptech control using AR ln Smart home environment)
 - 학술발표대회 (2020 한국정보처리학회, 온라인 춘계학술발표대회(5/29 ~ 30) 발표자)
 
- ✅  유니티 환경으로 통합하고 안드로이드 빌드를하는 것으로 설계하고 개발
- 
- ✅  사용자가 편리하게 사용할 수 있는 UI
- 
- ✅  앱으로 슬립테크를 접목시킨 스마트홈을 제어
- 
- ✅  증강현실을 이용해 제어를 할 수 있게 구현
- 
- ✅  평면도 구상 후 Sketchup 툴을 이용하여 직접 사용할 3D모델링 제작 후 시연용 실모형 제작
+**기술스택**:
+
+C#, Unity(Vuforia, Ardunity), IoT(Arduino leonardo 및 센서들), 3D modelling(Sketchup)
 
 **역할**:
 
 - 팀장 및 기획 및 발표
 - 초기 AR 개발
 - 아두이노 활용하여 실모형 제작 
+
+✅ 유니티 환경으로 통합하고 안드로이드 앱 빌드
+
+✅ 사용자가 편리하게 사용할 수 있는 UI 
+
+✅ 슬립테크를 접목시킨 스마트홈 제어
+
+✅ 증강현실을 이용해 제어를 가능
+
+✅ 평면도 구상 후 Sketchup 툴을 이용하여 직접 사용할 3D모델링 제작 후 시연용 실모형 제작
 
 ### **증강현실을 활용한 스마트 빌딩 관리**
 
@@ -132,6 +136,10 @@ Here are some ideas to get you started:
 **내용**:
 
 사용자인증 기능이 추가된 빌딩 관리 제어 앱 개발.
+
+**기술스택**:
+
+C#, Unity(Vuforia, Ardunity), IoT(Arduino leonardo 및 센서들), 3D modelling(Sketchup)
 
  ✅  모델링을 터치하여 건물 제어가능.
  
@@ -159,6 +167,7 @@ Here are some ideas to get you started:
 **내용**:
 
 삼성청년SW아카데미 1학기 동안 배운 내용을 토대로 영화 커뮤니티 웹사이트 제작
+
 
  ✅  외부 영화 API를 활용하여 DB를 구축
  
@@ -194,6 +203,10 @@ Here are some ideas to get you started:
 
 점점 늘어가는 2030 1인가구를 위한 냉장고 매니저이고, 특히 요리에 관심있는 2030 1인가구들의 입장에서 냉장고를 보다 효율적으로 활용할 수 있게 서비스를 제공하는 서비스
 
+**기술스택**: 
+
+React, Node.js, Django, DB, 라즈베리파이, Whimsical, Python, Vanilla JS, LED, 부저센서
+
 - 주요 기능: 개인별 맞춤형 서비스 제공, 레시피 활용 서비스, 재료 관리 서비스
 
     ✅ 사용자별 재료 및 좋아하는 레시피 등록 가능
@@ -212,18 +225,16 @@ Here are some ideas to get you started:
 
     ✅ IoT센서를 활용한 기능 탑재
 
-# 🚴‍♂️ Personal Experience
+# 🚴‍♂️ Personal Experience & Education
 
 ---
 
 - **단국삼성모바일연구소 연구실활동** - 1년간 학부랩실장으로서 주도적으로 운영을하며 공모전참여, 학술발표대회 발표, 특허 출원의 경험 등을 함. (19.07 ~ 21.02)
+
 - **이지스(보안 동아리)활동** - 동아리 내의 스터디 및 엘리트 세미나에 참여함과 동시에 코드게이트 등 외부 행사에도 참가하는 경험을 함 (15.03 ~ 21.02)
 
-# ✍🏻 Education
-
----
-
 - **AR VR 전문가과정** 교육 수료 한국IT비즈니스진흥협회 (19.06, 30시간)
+
 - **삼성청년소프트웨어아카데미(SSAFY)5기** 참여중 (21.01 ~)
 
 # 🏆 Prizes
