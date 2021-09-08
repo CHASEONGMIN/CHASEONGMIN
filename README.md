@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 - **Typora**
 - **IDE -** VsCode, Pycharm, IntelliJ, Eclipse, Visual Studio
 
-## Other experience
+## Other experiences
 
 - **외부 API활용** (공공 API, 영화 API 등)
 - **라이브러리, 프레임워크 활용**(Vuforia, Bootstrap, Material-UI 등)
