@@ -272,6 +272,21 @@ React, Node.js, Django, DB, 라즈베리파이, Whimsical, Python, Vanilla JS, L
     - 서비스 플랫폼 보고서 및 PPT
     - 멀티미디어 자율 프로젝트(신기술 리서치로 `엣지 컴퓨팅` 진행)
     - 정보보호이론 자동차 네트워크 보안 설계 보고서 및 PPT
+
+# 🏅 Certificate
+
+---
+
+**워드프로세서2급**
+
+- 2007.10.22 취득
+- 자격번호: 07I4005478
+
+**ITQ(아래한글 A등급)**
+
+- 2007.12.07 등록
+- 등록번호: A001-2007111-005813
+
 ---
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckpow)](https://solved.ac/ckpow)
 
