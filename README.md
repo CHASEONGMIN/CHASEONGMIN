@@ -307,7 +307,5 @@ SW전문인력양성기관 지정사업으로 실시한 AR/VR SW전문가과정�
 - 등록번호: A001-2007111-005813
 
 ---
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckpow)](https://solved.ac/ckpow)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHASEONGMIN&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
