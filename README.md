@@ -188,7 +188,7 @@ C#, Unity(Vuforia, Ardunity), IoT(Arduino leonardo 및 센서들), 3D modelling(
  
      ✅  유튜브 API 활용 트레일러 제공 등
 
-### **삼성청년소프트웨어아카데미(SSAFY) 2학기 공통 프로젝트(우수 프로젝트 선정)**
+## **삼성청년소프트웨어아카데미(SSAFY) 2학기 공통 프로젝트 (우수팀 선정)**
 
 **기간**: 21.07.05 ~ 21.08.20
 
@@ -196,35 +196,63 @@ C#, Unity(Vuforia, Ardunity), IoT(Arduino leonardo 및 센서들), 3D modelling(
 
 **역할**
 
-- 팀장 및 기획 및 발표
-- 프런트엔드(React) 개발
-- 디자인(Material-Ui) 개발
+팀장 및 기획 및 발표
+
+프런트엔드(React) 개발
+
+디자인(Material-Ui) 개발
 
 **내용**:
 
-점점 늘어가는 2030 1인가구를 위한 냉장고 매니저이고, 특히 요리에 관심있는 2030 1인가구들의 입장에서 냉장고를 보다 효율적으로 활용할 수 있게 서비스를 제공하는 서비스
+요리에 관심있는 2030 1인가구들의 입장에서 냉장고를 보다 효율적으로 활용할 수 있게 서비스를 제공하는 서비스
 
 **기술스택**: 
 
 React, Node.js, Django, DB, 라즈베리파이, Whimsical, Python, Vanilla JS, LED, 부저센서
 
-- 주요 기능: 개인별 맞춤형 서비스 제공, 레시피 활용 서비스, 재료 관리 서비스
+✅ 주요 기능: 개인별 맞춤형 서비스 제공, 레시피 활용 서비스, 재료 관리 서비스
 
-    ✅ 사용자별 재료 및 좋아하는 레시피 등록 가능
+- 사용자별 재료 및 좋아하는 레시피 등록 가능
+- 등록한 내용토대로 2가지 방식으로 추천 레시피 제공 및 레시피 검색 가능
+- 레시피 재료 중 없는 것 표시 및 유통기한 지난 재료 있을 시 알림
 
-    ✅ 등록한 내용토대로 2가지 방식으로 추천 레시피 제공 및 레시피 검색 가능
+✅ 차별화된 기술:
 
-    ✅ 레시피 재료 중 없는 것 표시 및 유통기한 지난 재료 있을 시 알림
+- 유저 개인별 맞춤형 추천 서비스 제공
+- 데이터 전처리 후, 더 나아가 연관성 검색 기능을 구현하여 오타있어도 제대로된 결과 도출
+- 시중에 없는 다양한 부가기능 제공(없는 재료 파악, 타이머 등)
+- IoT센서를 활용한 기능 탑재
+    
+## **삼성청년소프트웨어아카데미(SSAFY) 2학기 특화 프로젝트**
 
-- 차별화된 기술:
+**기간**: 21.08.23 ~ 21.10.08
+[레포](https://github.com/CHASEONGMIN/SpecializedProject_LEADME),  [PPT](https://docs.google.com/presentation/d/14rgPL_Mzt1nzFGMo5I4D2bwVr0rGplJ8/edit?usp=sharing&ouid=104755432594470438671&rtpof=true&sd=true), [시연시나리오](https://drive.google.com/file/d/1mQyQWF_tSdgWq2PcMPyChgXdxmOcY0sa/view?usp=sharing)
 
-    ✅ 유저 개인별 맞춤형 추천 서비스 제공
+**역할**
 
-    ✅ 데이터 전처리 후, 더 나아가 연관성 검색 기능을 구현하여 오타있어도 제대로된 결과 도출
+프런트엔드(React) 개발
 
-    ✅ 시중에 없는 다양한 부가기능 제공(없는 재료 파악, 타이머 등)
+디자인(Material-Ui) 개발
 
-    ✅ IoT센서를 활용한 기능 탑재
+**내용**:
+
+콘텐츠 기반 및 사용자 기반 협업 추천을 통해 탄탄한 영화 추천서비스를 제공하며, Mbti를 접목한 MovieTI 기능으로 재미요소를 더하고, 데이터 시각화를 통한 사용자 정보 분석까지 제공하는 서비스
+
+**기술스택**: 
+
+React, Django, Mysql, Figma, Python, JS, Recharts, Material-UI, AWS(EC2), Numpy, Pandas
+
+✅ 주요 기능: 설문 후 영화 추천, MovieTI, 데이터 시각화를 활용한 유저 정보 분석
+
+- 콜드 스타트 방지용 설문 후 영화 추천
+- mbti를 토대로 MovieTI 제작 후 유저 성향에 따른 콘텐츠 기반 영화 추천과 비슷한 성향의 다른 유저들의 취향을 반영한 협업 기반 영화 추천
+- 유저 정보들을 Radar chart, Tree map, Pie chart로 시각화 후 제공.
+
+✅ 차별화된 기술:
+
+- 콘텐츠 기반 필터링과 사용자 기반 협업 필터링의 혼합 사용
+- 사용자들의 흥미를 끌기 위한 MovieTi
+- 데이터 시각화 후 정보 제공
 
 # 🚴‍♂️ Personal Experience & Education
 
@@ -275,7 +303,8 @@ SW전문인력양성기관 지정사업으로 실시한 AR/VR SW전문가과정�
 
 ### **기재지정보**: [Proceedings of the Korea Information Processing Society Conference (한국정보처리학회:학술대회논문집)/ Pages.95-98 / 2020 / 2005-0011(pISSN) / 2671-7298(eISSN)]
 
-   - **논문제목**: [Method of Sleeptech control using AR ln Smart home environment](https://manuscriptlink-society-file.s3-ap-northeast-1.amazonaws.com/kips/conference/kips2020spring/KIPS_C2020A0041.pdf)(스마트홈 환경에서 AR기술을 활용한 슬립테크 제어 방법)
+   - **논문제목**: [Method of Sleeptech control using AR ln Smart home environment](https://manuscriptlink-society-file.s3-ap-northeast-1.amazonaws.com/kips/conference/kips2020spring/KIPS_C2020A0041.pdf)      
+      (스마트홈 환경에서 AR기술을 활용한 슬립테크 제어 방법)
 
    - **저자**: 차성민 (단국대학교 소프트웨어학과) ; 배수민 (단국대학교 소프트웨어학과) ; 빅현주 (단국대학교 소프트웨어학과) ; 이재동 (단국대학교 소프트웨어학과)
 
