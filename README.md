@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 ## Contact & Channel
 
 - **Email** | ckpow@naver.com
-- **Github** |  [https://github.com/CHASEONGMIN](https://github.com/CHASEONGMIN)
 
 # ⛏️ Skills
 
