@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 관심에 추진력을 더하는 차성민입니다.
+# 안녕하세요! 관심에 추진력을 더하는 차성민입니다.
 
 ## [포트폴리오 주소](https://intriguing-robin-c18.notion.site/b0d37c050c914d1d8561fe642e237b99)
 
