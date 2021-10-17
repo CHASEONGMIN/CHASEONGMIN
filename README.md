@@ -229,7 +229,7 @@ React, Node.js, Django, DB, 라즈베리파이, Whimsical, Python, Vanilla JS, L
 
 프런트엔드(React) 개발
 
-디자인(Material-Ui) 개발
+디자인(Material-Ui, css) 개발
 
 **내용**:
 
